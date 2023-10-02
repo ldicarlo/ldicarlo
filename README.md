@@ -9,5 +9,5 @@ I you can see more in my [LinkedIn](https://www.linkedin.com/in/luca-di-carlo/) 
 I have started [a "Portage Salarial" company](https://north-devs.com).
 In France, it's a way to "freelance" with almost no paperwork.
 
-I provide this service as on of the cheapest in France. 
+I provide this service as one of the cheapest in France. 
 (I actually did not find anybody cheaper, or even a the same price).
